@@ -73,17 +73,15 @@ Desvantagens:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### Utilizado para testes e exemplos:
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [NZ-ZORRO](https://ng.ant.design/)
+* [Angular](https://angular.io/)
+* [Node.js](https://nodejs.org/)
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Vamos começar?
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
