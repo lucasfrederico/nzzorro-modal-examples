@@ -56,8 +56,6 @@ Vantagens de criar o modal dessa forma e não da forma tradicional, com o compon
 Desvantagens:
 * Há relatos e experiências que a utilização dessa forma de instaciação de modais, tem um problema direto com o navegador Internet Explorer (nosso amigo IE). O problema conseguiu ser contornado em algumas situações, mas em projetos que possuem necessidade de rodar no IE, não é aconselhável.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
 ### Utilizado para testes e exemplos:
 
 * [NZ-ZORRO](https://ng.ant.design/)
