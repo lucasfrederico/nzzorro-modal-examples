@@ -33,25 +33,10 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#sobre-o-projeto">Sobre</a></li>
+    <li><a href="#utilizado-para-testes-e-exemplos">Ferramentas</a></li>
+    <li><a href="#vamos-começar">Começando</a></li>
+    <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
 
@@ -87,10 +72,11 @@ Nos passos a seguir, está o passo a passo para criar o modal da forma recomenda
 
 ### Etapas
 
-1. Criar o componente do modal
-2. Criar o service do modal
+1. [Criar o componente](https://angular.io/tutorial/toh-pt3) do modal
+2. [Criar o service](https://angular.io/tutorial/toh-pt4) do modal
 3. Adicionar o service na parte de providers do seu **NgModule**
 4. Adicionar o componente na parte de **entryComponents** do seu **NgModule**
+5. Adicionar o [código de criação do modal](), no service
 
 
 <!-- CONTACT -->
