@@ -87,10 +87,11 @@ Nos passos a seguir, está o passo a passo para criar o modal da forma recomenda
 
 ### Etapas
 
-1. Criar o componente do modal
-2. Criar o service do modal
+1. [Criar o componente](https://angular.io/tutorial/toh-pt3) do modal
+2. [Criar o service](https://angular.io/tutorial/toh-pt4) do modal
 3. Adicionar o service na parte de providers do seu **NgModule**
 4. Adicionar o componente na parte de **entryComponents** do seu **NgModule**
+5. Adicionar o [código de criação do modal](), no service
 
 
 <!-- CONTACT -->
