@@ -33,7 +33,8 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Começando</a></li>
+    <li><a href="#sobre-o-projeto">Sobre</a></li>
+    <li><a href="#vamos-comecar">Começando</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contato</a></li>
   </ol>
