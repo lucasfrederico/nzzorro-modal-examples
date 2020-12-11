@@ -89,8 +89,8 @@ Nos passos a seguir, está o passo a passo para criar o modal da forma recomenda
 
 1. Criar o componente do modal
 2. Criar o service do modal
-3. Adicionar o service na parte de providers do seu NgModule
-4. Adicionar o componente na parte de entryComponents do seu NgModule
+3. Adicionar o service na parte de providers do seu **NgModule**
+4. Adicionar o componente na parte de **entryComponents** do seu **NgModule**
 
 
 <!-- CONTACT -->
