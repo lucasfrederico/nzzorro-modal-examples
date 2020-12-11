@@ -41,7 +41,9 @@ export class ModalExampleService {
            * @param componentInstance Instância do componente {@link ModalExampleComponent}
            */
           onClick: componentInstance => {
-            this.submitForm(componentInstance.form);
+            if (componentInstance) {
+              this.submitForm(componentInstance.form);
+            }
           },
         },
       ],
