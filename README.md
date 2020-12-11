@@ -60,8 +60,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Projeto simples, com objetivo de educação no contexto técnico de criação de modais, utilizando o NzModalService do nosso amigo NZ-ZORRO. Essa forma de criação de modais, garante que ao precisarmos exibir o modal ao usuário, garantimos que após ele for fechado, não irá sobrar informações lá dentro, gerando possíveis bugs, falhas ou complicações mais severas.
 
 Vantagens de criar o modal dessa forma e não da forma tradicional, com o componente <nz-modal>:
