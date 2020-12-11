@@ -67,8 +67,9 @@ Vantagens de criar o modal dessa forma e não da forma tradicional, com o compon
 * Velocidade na criação de novos modais
 * Organização de código
 * Disparar o modal de outros componentes, uma vez exposto através de um service
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+  
+Desvantagens:
+* Há relatos e experiências que a utilização dessa forma de instaciação de modais, tem um problema direto com o navegador Internet Explorer (nosso amigo IE). O problema conseguiu ser contornado em algumas situações, mas em projetos que possuem necessidade de rodar no IE, não é aconselhável.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
