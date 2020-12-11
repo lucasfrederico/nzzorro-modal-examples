@@ -64,10 +64,11 @@
 
 Projeto simples, com objetivo de educação no contexto técnico de criação de modais, utilizando o NzModalService do nosso amigo NZ-ZORRO. Essa forma de criação de modais, garante que ao precisarmos exibir o modal ao usuário, garantimos que após ele for fechado, não irá sobrar informações lá dentro, gerando possíveis bugs, falhas ou complicações mais severas.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Vantagens de criar o modal dessa forma e não da forma tradicional, com o componente <nz-modal>:
+* Sem preocupações com bugs em relação à valores antigos em memória
+* Velocidade na criação de novos modais
+* Organização de código
+* Disparar o modal de outros componentes, uma vez exposto através de um service
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
