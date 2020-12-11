@@ -1,0 +1,9 @@
+<nz-form-item class="mb5" [class.ant-form-item-has-error]="control.invalid && control.dirty" [ngClass]="formItemClass">
+  <nz-form-label [nzFor]="controlName" nzNoColon="true" [nzRequired]="required">
+    <span>{{label}}</span>
+  </nz-form-label>
+  <nz-form-control>
+    <ng-content></ng-content>
+  </nz-form-control>
+  <app-control-messages [control]="control" *ngIf="controlName"></app-control-messages>
+</nz-form-item>

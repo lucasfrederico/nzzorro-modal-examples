@@ -1,0 +1,23 @@
+{
+  "general": {
+    "errors": {
+      "validation.required": "Este campo é obrigatório",
+      "validation.credit_card": "Número de cartão de crédito inválido",
+      "validation.email": "E-mail inválido",
+      "validation.password": "Password inválido. O password deve ter pelo 6 caracteres e conter ao menos um número",
+      "validation.maxlength": "O Campo deve conter até {{requiredLength}} caracteres",
+      "validation.minlength": "O Campo deve conter ao menos {{requiredLength}} caracteres",
+      "validation.phone_number": "Telefone inválido",
+      "validation.cpf": "CPF inválido",
+      "validation.cnpj": "CNPJ inválido",
+      "validation.max": "Deve ser menor ou igual a {{max}}",
+      "validation.min": "Deve ser maior ou igual a {{min}}",
+      "validation.must_match": "Os Campos informados não conferem",
+      "validation.invalid_time": "Informe uma hora válida",
+      "validation.invalid_time_option": "Informe uma hora válida",
+      "validation.invalid_time_period": "A data deve estar entre {{min}} e {{max}}",
+      "validation.empty": "",
+      "validation.confirm": "As senhas não são iguais"
+    }
+  }
+}

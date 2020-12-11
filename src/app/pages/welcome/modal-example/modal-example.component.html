@@ -1,0 +1,11 @@
+<div class="container">
+  <form nz-form nzLayout="vertical" [formGroup]="form">
+    <app-form-item label="Nome" [required]="true" controlName="name">
+      <input formControlName="name" type="text" nz-input placeholder="Insira o nome do jogo" maxlength="255">
+    </app-form-item>
+
+    <app-form-item label="Descrição" [required]="true" controlName="description">
+      <textarea formControlName="description" nz-input maxlength="255"></textarea>
+    </app-form-item>
+  </form>
+</div>
