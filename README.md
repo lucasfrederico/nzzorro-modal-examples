@@ -36,8 +36,7 @@
     <li><a href="#sobre-o-projeto">Sobre</a></li>
     <li><a href="#utilizado-para-testes-e-exemplos">Ferramentas</a></li>
     <li><a href="#vamos-começar">Começando</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contato</a></li>
+    <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
 
