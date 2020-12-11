@@ -31,7 +31,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Atalhos</summary>
   <ol>
     <li><a href="#sobre-o-projeto">Sobre</a></li>
     <li><a href="#utilizado-para-testes-e-exemplos">Ferramentas</a></li>
