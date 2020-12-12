@@ -75,6 +75,7 @@ Nos passos a seguir, está o passo a passo para criar o modal da forma recomenda
 3. Adicionar o service na parte de providers do seu **NgModule**
 4. Adicionar o componente na parte de **entryComponents** do seu **NgModule**
 5. Adicionar o [código de criação do modal](https://github.com/lucasfrederico/nzzorro-modal-examples/blob/main/src/app/pages/welcome/modal-example/modal-example.service.ts#L24), no service
+6. Chamar a função do service, do lugar necessário à exibir o modal
 
 
 <!-- CONTACT -->
